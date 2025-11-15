@@ -52,7 +52,7 @@ To create an AI character in Unreal Engine that roams randomly within a NavMesh 
    - Place the AI enemy in the map and assign its controller and behavior tree.
    - Press **Play**: the AI should roam when the player is far and chase the player when within sight.
   
-
+ 
 ## Output
 
 ![Screenshot 2025-05-15 133109](https://github.com/user-attachments/assets/8cc1b432-1809-4fb2-b82c-842d16b2f651)
